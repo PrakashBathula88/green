@@ -16,7 +16,7 @@ Green Paradise is a fully functional e-commerce website designed for plant enthu
 
 ## Demo
 
-- [Live Demo](https://vercel.com/prakashbathula88s-projects/green)
+- [Live Demo](https://green-liart-nine.vercel.app/)
 ## Features
 
 - Browse and search for a wide range of plants.
